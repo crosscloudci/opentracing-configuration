@@ -1,1 +1,1 @@
-# testproj-configuration
+# opentracing-configuration
