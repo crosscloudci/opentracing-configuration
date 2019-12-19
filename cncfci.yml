@@ -1,7 +1,7 @@
  project:
   logo_url: "https://raw.githubusercontent.com/cncf/artwork/master/projects/opentracing/icon/color/opentracing-icon-color.svg?sanitize=true"
   display_name: OpenTracing
-  sub_title: OpenTracing API for Go
+  sub_title: Distributed Tracing API
   project_url: "https://github.com/opentracing/opentracing-go"
   stable_ref: "v1.1.0"
   head_ref: "master"
