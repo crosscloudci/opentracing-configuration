@@ -8,7 +8,7 @@
   ci_system:
     -
       ci_system_type: "travis-ci"
-      ci_project_url: "https://example.com/opentracing/opentracing-go"  # can be anything for citest
+      ci_project_url: "https://travis-ci.org/opentracing/opentracing-go"  
       ci_project_name: "opentracing/opentracing-go"
       arch:
         - amd64
